@@ -1,0 +1,12 @@
+.img-head{
+    display: none;
+}
+.appbar{
+    margin: 20px;
+    background-color: rgba(240, 248, 255, 0);
+}
+.title{
+    background-color: #1768ae04; 
+    color: rgb(240, 248, 255);
+    font-size: 4em;
+}

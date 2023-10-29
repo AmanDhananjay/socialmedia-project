@@ -1,0 +1,39 @@
+#card{
+    width: 300px;
+   border-radius: 10px; 
+}
+.cardmedia{
+    width: 310;
+     height: 200 ;
+ align-items: center;
+}
+.title-contaner{
+    padding: 10px;
+    display: flex;
+   justify-content: space-between;
+}
+.t-c{
+    color: rgba(0, 0, 0, 0.624);
+    font-size: 1.5rem;
+    font-family:'Gill Sans', 'Gill Sans MT';
+}
+.message{
+    margin-bottom: 0;
+    margin-left: 1em;
+    
+}
+.tag{
+    margin-left: 0.5em;
+    margin-bottom: 1em;
+}
+.name{ 
+    margin-left: 1em;
+    margin-right: 0.3em;
+    display: flex;
+    justify-content: space-between;
+
+}
+.btn{
+    display: flex;
+    justify-content: space-between;
+}
